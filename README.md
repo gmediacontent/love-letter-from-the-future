@@ -1,1 +1,2 @@
-# love-letter-from-the-future
+# Love Letter From The Future
+Ian Percus, un étudiant de troisième année du département d’escrime de l’académie, se réveille un matin en trouvant sur son bureau un calendrier et une lettre qu’il ne se souvient pas avoir reçu. La lettre contient un message crypté: « Si nous ne protégeons pas le futur, Le monde périra. » Quand il se rend à l’académie, il apprend à son insu qu’une semaine était passée et que durant celle-ci il avait gagné contre une junior jusqu’alors invaincue. Au début, Ian est sceptique, mais au fur et à mesure que les événements décrits dans la lettre se déroulent, il commence à croire ce qui est écrit. Mais que s’est-il passé pendant cette semaine dont il n’a aucun souvenir ? Ian sera-t-il capable de protéger l’avenir ?
